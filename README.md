@@ -35,7 +35,7 @@ To identify, review, and remove potentially malicious or unnecessary browser ext
 ---
 
 ## proof of font detector is suspious
-![image]
+![image](screenshots/font.png)
 
 ## ❌ Suspicious Extension Removed
 
